@@ -28,3 +28,6 @@ class User(Base):
         default=datetime.now(timezone.utc),
         nullable=False,
     )
+
+
+
